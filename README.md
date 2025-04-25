@@ -3,11 +3,6 @@
 
 ---
 
-<h1 align="left">Olá! 👋 Meu nome é Roberto Silva</h1>
-<h3 align="left">Sou um Desenvolvedor Web apaixonado por criar soluções digitais eficientes e intuitivas.</h3>
-
----
-
 <table>
   <tr>
     <td valign="top">
