@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="Gato programador animado"/>
+<img align="right" height="170" src="[https://i.imgflip.com/65efzo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJmZWRwMGZ0djJ6MDRwdDJlOGJ4dndnb3JuY2k0eW9tNXZldXEwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIuI7syOPvm1HAd5GF/giphy.gif)" alt="Goku Ultra"/>
 
 ## 🚀 Sobre Mim
 
