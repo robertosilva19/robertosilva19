@@ -35,14 +35,23 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho ou estou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" title="CSS3" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap logo" title="Bootstrap" />   <!-- Adicionei Bootstrap como exemplo -->
   <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" height="35" alt="Tailwind CSS logo" title="Tailwind CSS"/>   <!-- Adicionei Tailwind como exemplo -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" height="35" alt="ExpressJS logo" title="ExpressJS"/>  
   <!-- Backend & Outras Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js logo" title="Node.js"/>   <!-- Adicionei Node como exemplo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP logo" title="PHP"/>   <!-- Adicionei PHP como exemplo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C# logo" title="C#" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C# logo" title="C#"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" height="35" alt="Figma logo" title="C#"/>  
   <!-- Ferramentas & DBs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" title="Git"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="MySQL logo" title="MySQL"/>   <!-- Adicionei MySQL como exemplo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo" title="VS Code"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="MySQL logo" title="MySQL logo"/>   <!-- Adicionei MySQL como exemplo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo" title="VS Code logo"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" height="35" alt="DotNet logo" title="DotNet"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" height="35" alt="MongoDB logo" title="MongoDB"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" height="35" alt="PostgreSQL logo" title="PostgreSQL"/>
+  <!-- Versionamento -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/BitBucket-Dark.svg" height="35" alt="BitBucket logo" title="BitBucket"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" height="35" alt="Postman logo" title="Postman"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" height="35" alt="Vercel logo" title="Vercel"/>  
 </div>
 
 ---
