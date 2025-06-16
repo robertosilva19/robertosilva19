@@ -8,7 +8,7 @@
     <td valign="top">
       <h2>🚀 Sobre Mim</h2>
       <ul>
-        <li>👨‍💻 Atualmente explorando o universo do desenvolvimento Full Stack, com foco em <strong>JavaScript, TypeScript, React e Node.js</strong>.</li>
+        <li>👨‍💻 Atualmente explorando o universo do desenvolvimento Full Stack, com foco em <strong>JavaScript, React e Node.js</strong>.</li>
         <li>🌱 Buscando constantemente aprimorar minhas habilidades e aprender novas tecnologias.</li>
         <li>💡 Interessado em projetos desafiadores que me permitam crescer e aplicar meus conhecimentos.</li>
         <li>💬 Aberto a colaborações e novas conexões na área de tecnologia!</li>
