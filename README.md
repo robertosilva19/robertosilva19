@@ -34,7 +34,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho ou estou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 logo" title="HTML5" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" title="CSS3" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap logo" title="Bootstrap" />   <!-- Adicionei Bootstrap como exemplo -->
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg)" height="35" alt="Tailwind CSS logo" title="Tailwind CSS"/>   <!-- Adicionei Tailwind como exemplo -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" height="35" alt="Tailwind CSS logo" title="Tailwind CSS"/>   <!-- Adicionei Tailwind como exemplo -->
   <!-- Backend & Outras Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js logo" title="Node.js"/>   <!-- Adicionei Node como exemplo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP logo" title="PHP"/>   <!-- Adicionei PHP como exemplo -->
